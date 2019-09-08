@@ -1,0 +1,15 @@
+.navigator {
+    display: grid;
+    grid-template-columns: 140px 140px 140px 140px 140px;
+    grid-template-rows: 30px;
+    justify-content: center;
+    background-color: rgb(233, 245, 245);
+}
+
+.navLink:link {
+    color: yellow;
+}
+
+a:link {
+    color: red;
+  }
