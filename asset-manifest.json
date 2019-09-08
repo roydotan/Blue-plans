@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Blue-plans/static/css/main.374694d7.chunk.css",
+    "main.js": "/Blue-plans/static/js/main.d63b0e20.chunk.js",
+    "main.js.map": "/Blue-plans/static/js/main.d63b0e20.chunk.js.map",
+    "runtime~main.js": "/Blue-plans/static/js/runtime~main.0d4d358c.js",
+    "runtime~main.js.map": "/Blue-plans/static/js/runtime~main.0d4d358c.js.map",
+    "static/js/2.5a992caa.chunk.js": "/Blue-plans/static/js/2.5a992caa.chunk.js",
+    "static/js/2.5a992caa.chunk.js.map": "/Blue-plans/static/js/2.5a992caa.chunk.js.map",
+    "index.html": "/Blue-plans/index.html",
+    "precache-manifest.535607ab43f18fd6210f37e581afce3b.js": "/Blue-plans/precache-manifest.535607ab43f18fd6210f37e581afce3b.js",
+    "service-worker.js": "/Blue-plans/service-worker.js",
+    "static/css/main.374694d7.chunk.css.map": "/Blue-plans/static/css/main.374694d7.chunk.css.map",
+    "static/media/defphoto.jpeg": "/Blue-plans/static/media/defphoto.75592b97.jpeg",
+    "static/media/logo.svg": "/Blue-plans/static/media/logo.5d5d9eef.svg"
+  }
+}
